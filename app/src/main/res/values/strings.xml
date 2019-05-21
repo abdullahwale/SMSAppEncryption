@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMS Encryption</string>
+    <string name="sms_delivered">SMS delivered</string>
+    <string name="sms_not_delivered">SMS not delivered</string>
+    <string name="default_hint">I\'m not typing anything in here! You\'re nuts!</string>
+</resources>
